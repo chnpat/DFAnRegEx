@@ -1,0 +1,13 @@
+
+*.iml
+*.xml
+*.pyc
+*.h
+*.cfg
+*.txt
+*.exe
+venv/DFA1
+venv/DFA1.pdf
+venv/Lib/*
+venv/Scripts/*
+venv/tcl/*
